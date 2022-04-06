@@ -1349,7 +1349,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 
                buttonsMessage = {
                contentText: `${txtt}`,
-               footerText: `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, imageMessage: imageMsg,
+               footerText: `ᴍᴜɴᴀᴠɪʀ`, imageMessage: imageMsg,
                buttons: buttons,
                headerType: 4
 }
@@ -1649,7 +1649,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `
 ╭──────────────────╮
-      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟ᎮᏋᎮᏋ ՏIᖇ
+      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟ᴍᴜɴᴀᴠɪʀ
 ╭──────────────────╯
 │
 │   ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
@@ -1670,7 +1670,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│        ©917736622139
+│        ©918590822912
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
 │  https://github.com/pepesir/PEPE-SIR
@@ -1701,7 +1701,7 @@ case 'credit':
 ╭───➤ 𝐀𝐃𝐌𝐈𝐍
 │✨ wa.me/${dtod.split('@')[0]}
 ╰───────────────
- © ᴄᴏᴅᴇᴅ ʙʏ ᴘᴇᴘᴇ sɪʀ
+ © ᴄᴏᴅᴇᴅ ʙʏ ᴍᴜɴᴀᴠɪʀ sɪʀ
  `
      credit = xeon.prepareMessageFromContent(from,{ "orderMessage": { "itemCount": 1000, "message": `${yez}`, "footerText": "hehe", "thumbnail": iye, "surface": 'CATALOG'}}, {quoted: mek})
             xeon.relayWAMessage(credit)
@@ -1870,7 +1870,7 @@ menu = `
 
 4. 𝙰𝙽𝚈 𝙿𝚁𝙾𝙱𝙻𝙰𝙼 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚄𝚁 𝙾𝚆𝙽𝙴𝚁
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `ᴍᴜɴᴀᴠɪʀ`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2102,7 +2102,7 @@ case 'command':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsg = {
  buttonText: '𝗟𝗜𝗦𝗧 𝗠𝗘𝗡𝗨',
- footerText: '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+ footerText: 'ᴍᴜɴᴀᴠɪʀ',
  description: `Hi @${sender.split('@')[0]}, Please select the menu here`,
  sections: [
                      {
@@ -2170,7 +2170,7 @@ case 'group':
 if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quoted: fkontak})
  listMsgg = {
  buttonText: 'CLICK HERE',
- footerText: '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+ footerText: 'ᴍᴜɴᴀᴠɪʀ',
  description: `OPEN OR CLOSE GROUP`,
  sections: [
                      {
@@ -2206,7 +2206,7 @@ menu = `︎𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}𝙩𝙬𝙞𝙩𝙩𝙚𝙧 <𝙪𝙧𝙡>
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `MUNAVIR 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2257,7 +2257,7 @@ menu = `𝘎𝘳𝘰𝘶𝘱 𝘔𝘦𝘯𝘶︎︎
 
 ❑${prefix}kickarea
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` MUNU 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2320,7 +2320,7 @@ menu = `𝘖𝘸𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}colongsw [reply sw]
 `
-sendButMessage(from, menu, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, `MUNU 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2343,7 +2343,7 @@ menu = `シ︎𝘜𝘱𝘴𝘸 𝘔𝘦𝘯𝘶シ︎
 
 ❑${prefix}upswlocation
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` MUNU 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2432,7 +2432,7 @@ menu = `𝘖𝘵𝘩𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}playstore <query>
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` MUNU 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2483,7 +2483,7 @@ menu = `𝘔𝘢𝘬𝘦𝘳 𝘔𝘦𝘯𝘶
 
 ❑${prefix}waifu
 `
-sendButMessage(from, menu, ` 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, menu, ` MUNU 𝚂𝙸𝚁`, [
           {
             buttonId: `command`,
             buttonText: {
@@ -2522,7 +2522,7 @@ case 'catalog':
         },
         "businessOwnerJid": sender
       },
-      "footerText": " 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁"
+      "footerText": " ᴍᴜɴᴀᴠɪʀ"
     }
   }, {quoted: freply})
   xeon.relayWAMessage(list, {waitForAck: true})
@@ -4344,7 +4344,7 @@ buttons = [{buttonId: `writelist`,buttonText:{displayText: `Write List🔖`},typ
                 if (args.length < 1) return reply(`where is the text bro??\nexample ${prefix + command} ${pushname}`)
                 dpuhy = args.join(' ')
                tiyo = `Please choose one`
-sendButMessage(from, tiyo, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
+sendButMessage(from, tiyo, `ᴍᴜɴᴀᴠɪʀ`, [
             {              
               buttonId: `writedown ${dpuhy}`,
               buttonText: {
@@ -4371,14 +4371,14 @@ sendButMessage(from, tiyo, `𝙿𝙴𝙿𝙴 𝚂𝙸𝚁`, [
              const encmedia = isQuotedImage ? JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo : mek
              bc = await xeon.downloadMediaMessage(encmedia)
              for (let _ of anu) {
-             xeon.sendMessage(_.jid, bc, image, {quoted:fkontak,caption: `*「 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 BROADCASTING 」*\n\n${body.slice(4)}`})
+             xeon.sendMessage(_.jid, bc, image, {quoted:fkontak,caption: `*「 ᴍᴜɴᴀᴠɪʀ BROADCASTING 」*\n\n${body.slice(4)}`})
 }
              reply('Broadcast success')
              } else {
              for (let _ of anu) {
 xeon.sendMessage(_.jid, 
 			{"contentText": `*「 BROADCAST 」*\n\n${body.slice(4)}`,
-			"footerText": '𝙿𝙴𝙿𝙴 𝚂𝙸𝚁',
+			"footerText": 'ᴍᴜɴᴀᴠɪʀ',
 			"buttons": [
 			{"buttonId": `${prefix}allmenu`,
 			"buttonText": {"displayText": "CLICK TO VIEW MENU"
@@ -4397,7 +4397,7 @@ reply(mess.wait)
 kon = await getBuffer(`https://hardianto-chan.herokuapp.com/api/anime/random?nsfw=yuri&apikey=${hardi}`)
 buttons = [{buttonId: `yuri`,buttonText:{displayText: `➡️Next`},type:1}]
               imageMsg = (await xeon.prepareMessageMedia(kon, "imageMessage", { thumbnail: kon, })).imageMessage
-              buttonsMessage = {footerText:'𝙿𝙴𝙿𝙴 𝚂𝙸𝚁', imageMessage: imageMsg,
+              buttonsMessage = {footerText:'ᴍᴜɴᴀᴠɪʀ', imageMessage: imageMsg,
               contentText:`ɴᴏᴛᴇ: ʜᴏʀɴʏ = ʙᴏɴᴋs`,buttons,headerType:4}
               prep = await xeon.prepareMessageFromContent(from,{buttonsMessage},{quoted: ftrol})
               xeon.relayWAMessage(prep)
