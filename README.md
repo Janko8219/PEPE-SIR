@@ -7,7 +7,7 @@
 <div align="center">
 <img src="xeon.jpg" alt="Pepe" width="170" />
 
-## munavir 🌝💝
+## MUNAVIR BOT 🌝💝
 
 </div>
 
@@ -56,7 +56,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 
 ``` 
-git clone https://github.com/pepesir/PEPE-SIR.git
+git clone https://github.com/Janko8219/PEPE-SIR.git
 ```
 ```
 cd PEPE-SIR
@@ -116,7 +116,7 @@ scan qr code within 15seconds
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+917736622139"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+918590822912"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -124,7 +124,7 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCVJ9029PQ-gJBtFQZZ3AJuA)
+* [`My instagram`])http://instagram.com/_munavir._)
 
 ### ⚠ Warning ⚠
 
@@ -168,6 +168,6 @@ you can contact us
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/ESkhpL7DdlE9AcaUs2b7g1)
 
 # Thanks To
-* [`Pepe`](https://github.com/pepesir)
+* [`Munavit`](https://github.com/Janko8219)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
